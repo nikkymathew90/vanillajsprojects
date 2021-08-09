@@ -78,18 +78,3 @@ const newDevelopment = [
     }
 
 
-
-    if (a && b) {
-        if (op === 'asc') {
-          if (typeof (a) === 'boolean') {
-            return (a === b) ? 0 : (a ? -1 : 1)
-          }
-          a.toLowerCase()
-          return a > b ? 1 : -1
-        } else {
-           if (typeof (a) === 'boolean') {
-               return (a === b) ? 0 : (a ? 1 : -1)
-           }
-           return a < b ? 1 : -1
-        }
-       }
