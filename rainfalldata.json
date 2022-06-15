@@ -1,0 +1,23 @@
+{
+  "graphInfo": [
+    {
+      "siteName": "Demo Rainfall CA",
+      "startDate": "2017-01-03",
+      "endDate": "2017-01-05"
+    }
+  ],
+  "graphData": [
+    {
+      name: "5 Year Event",
+      data: [95, 85, 75, 65, 55, 35, 25, 20, 18]
+   },
+    {
+      name: "2 Year Event",
+      data: [95, 85, 75, 65, 55, 35, 25, 20, 18]
+   },
+    {
+      name: "1 Year Event",
+      data: [95, 85, 75, 65, 55, 35, 25, 20, 18]
+   }
+  ]
+}
