@@ -3,8 +3,7 @@
     {
       "siteName": "Demo Rainfall CA",
       "startDate": "2017-01-03",
-      "endDate": "2017-01-05",
-      "duration" :  ["5 min","10 min","15 min", "30 min","1 hr","2 hr","6 hr","12 hr","24 hr"]
+      "endDate": "2017-01-05"
   ],
   "graphData": [
     {
